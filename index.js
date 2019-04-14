@@ -1,5 +1,6 @@
-var a = Number;
-var b = Number;
+
 function add5(a, b) {
-  number (a + b);
+  if (a === 'number' && b === 'number') {
+  return (a + b);
+}
 }
